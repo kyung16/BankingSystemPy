@@ -1,1 +1,2 @@
 "# HangManPy" 
+"# HangMan" 
